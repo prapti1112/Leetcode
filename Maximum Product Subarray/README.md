@@ -14,6 +14,12 @@ The Logic <br>
 $$current\_max = \max(n, n \cdot current\_max, n \cdot current\_min)$$
 * <b>Zero Handling:</b> Zeros naturally reset the product chain, forcing the algorithm to start fresh at the next non-zero element.
 
+
+## Analysis
+* <b>Runtime: </b> 10ms (Beats 58.98%)
+* <b>Money: </b> 18.14MB (Beats 96.05%)
+
+
 ## 🛠 Programming Paradigm
 This solution follows the Dynamic Programming (DP) paradigm. <br>
 * <b>Optimal Substructure:</b> The maximum product ending at index $i$ can be computed using the results (max and min) from index $i-1$.
