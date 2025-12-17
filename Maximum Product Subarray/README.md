@@ -16,6 +16,7 @@ $$current\_max = \max(n, n \cdot current\_max, n \cdot current\_min)$$
 
 
 ## Analysis
+* <b>Difficulty Level: </b> Medium
 * <b>Runtime: </b> 10ms (Beats 58.98%)
 * <b>Money: </b> 18.14MB (Beats 96.05%)
 
