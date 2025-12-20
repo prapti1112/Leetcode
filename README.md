@@ -20,13 +20,13 @@ The solutions are organized by difficulty (or topic, depending on your preferenc
 
 ```text
 .
-├── Easy/
-│   ├── TwoSum/
-│   │   ├── solution.py
-│   │   └── README.md
-├── Medium/
-├── Hard/
-└── utils/ (Optional: for common helper functions)
+├── Two Sum/
+│   ├── solution.py
+│   └── README.md
+├── Maximum Product Subarray/
+│   ├── solution.py
+│   └── README.md
+:
 ```
 
 ## 🛠️ Languages Used
