@@ -25,8 +25,8 @@ This problem is a classic application of the Dutch National Flag algorithm. We m
 
 ## Analysis
 * **Difficulty Level:** Medium
-* **Runtime:** $O(n)$ — Each element is visited at most once.
-* **Space:** $O(1)$ — Sorting is done in-place with no extra data structures.
+* **Runtime:** 0ms (Beats 100.00%). $O(n)$ — Each element is visited at most once. 
+* **Space:** 17.24MB (Beats 99.24%). $O(1)$ — Sorting is done in-place with no extra data structures.
 
 ## 🛠 Programming Paradigm
 This solution follows the **Three-Way Partitioning** paradigm. <br>

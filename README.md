@@ -30,7 +30,7 @@ The solutions are organized by difficulty (or topic, depending on your preferenc
 ```
 
 ## 🛠️ Languages Used
-* Primary: Python (Choose yours)
+* Primary: Python
 
 ## 🤝 Resources
 
