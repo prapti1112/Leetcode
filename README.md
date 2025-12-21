@@ -8,9 +8,9 @@ A collection of my solutions to various LeetCode problems, categorized by diffic
 | Category | Count |
 | :--- | :--- |
 | 🟢 **Easy** | 0 |
-| 🟡 **Medium** | 3 |
+| 🟡 **Medium** | 4 |
 | 🔴 **Hard** | 0 |
-| **Total** | **0** |
+| **Total** | **4** |
 
 ---
 
