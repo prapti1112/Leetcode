@@ -8,7 +8,7 @@ A collection of my solutions to various LeetCode problems, categorized by diffic
 | Category | Count |
 | :--- | :--- |
 | 🟢 **Easy** | 2 |
-| 🟡 **Medium** | 6 |
+| 🟡 **Medium** | 7 |
 | 🔴 **Hard** | 0 |
 | **Total** | **4** |
 
