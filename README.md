@@ -10,7 +10,7 @@ A collection of my solutions to various LeetCode problems, categorized by diffic
 | 🟢 **Easy** | 2 |
 | 🟡 **Medium** | 7 |
 | 🔴 **Hard** | 0 |
-| **Total** | **4** |
+| **Total** | **9** |
 
 ---
 
