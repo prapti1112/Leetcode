@@ -7,10 +7,10 @@ A collection of my solutions to various LeetCode problems, categorized by diffic
 
 | Category | Count |
 | :--- | :--- |
-| 🟢 **Easy** | 2 |
+| 🟢 **Easy** | 3 |
 | 🟡 **Medium** | 8 |
 | 🔴 **Hard** | 0 |
-| **Total** | **9** |
+| **Total** | **11** |
 
 ---
 
